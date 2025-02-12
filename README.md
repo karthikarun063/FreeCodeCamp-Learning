@@ -9,11 +9,11 @@ Track my learning progress and update completed lessons.
 - [x] Learn Introductory JavaScript by Building a Pyramid Generator  
 - [x] Learn Basic JavaScript by Building a Role-Playing Game  
 - [x] Learn Basic Debugging by Building a Random Background Color Changer  
-- [x] Build a Palindrome Checker (Certification Project)  
+- [x] Build a Palindrome Checker (Certification Project)
+- [x] Review JavaScript Fundamentals by Building a Gradebook App (75% completed) 
 
-## 🚧 In Progress  
-- [ ] **Review JavaScript Fundamentals by Building a Gradebook App** (75% completed)  
-- [ ] **Learn Form Validation by Building a Calorie Counter** (51% completed)  
+## 🚧 In Progress   
+- [ ] **Learn Form Validation by Building a Calorie Counter** (56% completed)  
 
 ## ⏳ Upcoming Topics  
 ### 🔹 Core JavaScript Topics  
