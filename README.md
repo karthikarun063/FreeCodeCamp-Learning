@@ -13,7 +13,7 @@ Track my learning progress and update completed lessons.
 - [x] Review JavaScript Fundamentals by Building a Gradebook App (75% completed) 
 
 ## 🚧 In Progress   
-- [ ] **Learn Form Validation by Building a Calorie Counter** (56% completed)  
+- [ ] **Learn Form Validation by Building a Calorie Counter** (64% completed)  
 
 ## ⏳ Upcoming Topics  
 ### 🔹 Core JavaScript Topics  
