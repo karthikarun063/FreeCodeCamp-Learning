@@ -10,15 +10,15 @@ Track my learning progress and update completed lessons.
 - [x] Learn Basic JavaScript by Building a Role-Playing Game  
 - [x] Learn Basic Debugging by Building a Random Background Color Changer  
 - [x] Build a Palindrome Checker (Certification Project)
-- [x] Review JavaScript Fundamentals by Building a Gradebook App (75% completed) 
+- [x] Review JavaScript Fundamentals by Building a Gradebook App (75% completed)
+- [x] Learn Form Validation by Building a Calorie Counter 
 
 ## 🚧 In Progress   
-- [ ] **Learn Form Validation by Building a Calorie Counter** (64% completed)  
+ - [ ] DOM Manipulation (Rock, Paper, Scissors Game)
+ - [ ] Basic String & Array Methods (Music Player)
 
 ## ⏳ Upcoming Topics  
-### 🔹 Core JavaScript Topics  
-- [ ] DOM Manipulation (Rock, Paper, Scissors Game)  
-- [ ] Basic String & Array Methods (Music Player)  
+### 🔹 Core JavaScript Topics     
 - [ ] Learn the Date Object (Date Formatter)  
 - [ ] Modern JavaScript Methods (Football Team Cards)  
 
