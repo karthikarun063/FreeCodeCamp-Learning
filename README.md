@@ -15,7 +15,7 @@ Track my learning progress and update completed lessons.
 - [x]  DOM Manipulation (Rock, Paper, Scissors Game)
 
 ## 🚧 In Progress   
- - [ ] Basic String & Array Methods (Music Player)[26% completed]
+ - [ ] Basic String & Array Methods (Music Player)[55% completed]
 
 ## ⏳ Upcoming Topics  
 ### 🔹 Core JavaScript Topics     
